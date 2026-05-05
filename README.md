@@ -43,7 +43,7 @@ Secure Authentication: User and provider login powered by Supabase.
 
 This project represents my growth in full-stack development and system architecture. It incorporates UI/UX principles learned through digital image editing and artistic sketching. It is part of a larger initiative to provide tech solutions for local industries, similar to my work on the **ምርት tech** agricultural management system.
 
-runs at mirt-taem-frontend.vercel.app
+runs at (mirt-taem-frontend.vercel.app/)
  
 Developed by **Selamawit Mesfin**
 *Third-year Information Systems student at Bahir Dar University*
